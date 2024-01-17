@@ -17,7 +17,7 @@ const Work = () => {
             <p className='py-6 text-[#303030]'>Check out some of my recent work</p>
         </div>
 
-        <div className=' grid sm:grid-cols-2 md:grid-cols-2 gap-3 md:gap-6'>
+        <div className='grid sm:grid-cols-2 md:grid-cols-2 gap-3 md:gap-6'>
 
         {cards}
       

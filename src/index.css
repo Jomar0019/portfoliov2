@@ -61,25 +61,25 @@
 
 
 /* WORK  */
-.work-content {
+/* .work-content {
     @apply relative overflow-hidden rounded-md shadow-lg border border-transparent
-}
+} */
 
-.work-img {
+/* .work-img {
     @apply w-full object-cover
-}
+} */
 
-.work-overlay {
+/* .work-overlay {
     @apply absolute h-full w-full bg-gradient-to-r from-cyan-500/50 to-blue-500/50 flex gap-2 items-center justify-center -bottom-10 group-hover:bottom-0 opacity-0 group-hover:opacity-100 transition-all duration-300
-}
+} */
 
-.work-light-btn {
+/* .work-light-btn {
     @apply bg-white px-5 py-2 text-black font-bold rounded-lg
 }
 
 .work-dark-btn {
     @apply bg-black px-5 py-2 text-white/90 font-bold rounded-lg
-}
+} */
 
 /* CONTACT  */
 
